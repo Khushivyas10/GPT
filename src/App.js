@@ -1,9 +1,14 @@
 import React from 'react'
 
+
 const App = () => {
-  return (
-    <div>GPT-3</div>
-  )
+    return (
+        <div>
+            <h1>
+                GPT-3
+            </h1>
+        </div>
+    )
 }
 
 export default App
