@@ -17,6 +17,15 @@ You may also see any lint errors in the console.
 ### dependencies
 `npm install react-icons`
 
+### to create gradient effect in background
+1 =>   https://angrytools.com/gradient/
+2 =>   class gradiant__bg
+
+
+### animesta inclusion
+1 =>   https://animista.net/
+
+
 
 ### `npm test`
 
